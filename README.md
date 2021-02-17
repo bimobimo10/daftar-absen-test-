@@ -3,3 +3,4 @@ Halo semuanya, ini adalah file readme. Tulis nama kalian:
 - Rayhand Rusyid
 - Hazim
 - Zaky R
+- bilqisty
